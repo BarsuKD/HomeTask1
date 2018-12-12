@@ -25,3 +25,5 @@ Sometimes it's hard
 It's hard to tell
 
 END
+
+New line added.
